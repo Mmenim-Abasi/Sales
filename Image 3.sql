@@ -1,0 +1,1 @@
+-------List all customers in Sweden----Select [Id],[Country]from [dbo].[Customer] where [Country] = 'Sweden'

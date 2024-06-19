@@ -1,0 +1,2 @@
+------List the first name, last name, and city for all customers. Concatenate the first
+--and last name separated by a space and a comma as a single column-----Select CONCAT([FirstName], ' ,', [LastName]) AS 'FULL_NAMES',[City]from [dbo].[Customer]
